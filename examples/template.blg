@@ -1,0 +1,18 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'template.blg'
+[295] biber-MSWIN64:340> INFO - === 
+[399] Biber.pm:415> INFO - Reading 'template.bcf'
+[687] Biber.pm:949> INFO - Using all citekeys in bib section 0
+[725] Biber.pm:4340> INFO - Processing section 0
+[750] Biber.pm:4531> INFO - Looking for bibtex format file 'MyPublications.bib' for section 0
+[884] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1020] bibtex.pm:1494> INFO - Found BibTeX data source 'MyPublications.bib'
+[1227] Utils.pm:395> WARN - legacy year field 'Febuary 2015' in entry 'ArthropodCactiiOther_padro_2015' is not an integer - this will probably not sort properly.
+[1667] Utils.pm:395> WARN - legacy year field 'August 3rd-5th, 2020' in entry 'GeneticCircuitHazard_bucherl_2020' is not an integer - this will probably not sort properly.
+[1801] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1801] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1802] Biber.pm:4168> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[1802] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1869] bbl.pm:654> INFO - Writing 'template.bbl' with encoding 'UTF-8'
+[1940] bbl.pm:757> INFO - Output to template.bbl
+[1941] Biber.pm:128> INFO - WARNINGS: 2

@@ -162,6 +162,54 @@
       \field{year}{Febuary 2015}
       \true{nocite}
     \endentry
+    \entry{SyntheticBiologyOpen_}{article}{}
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{extradate}{1}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Under Review}
+      \field{journaltitle}{JIB.2021.0013}
+      \field{title}{Synthetic {{Biology Open Language Visual}} ({{SBOL Visual}}) {{Version}} 2.3}
+      \true{nocite}
+      \keyw{update}
+    \endentry
+    \entry{SyntheticBiologyOpen_a}{article}{}
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{4}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{extradate}{2}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Under Review}
+      \field{journaltitle}{JIB.2020.0045}
+      \field{title}{Synthetic {{Biology Open Language Visual}} ({{SBOL Visual}}) {{Version}} 3.0}
+      \true{nocite}
+      \keyw{update}
+    \endentry
     \entry{SyntheticBiologyOpen_baig_2020a}{article}{}
       \name{author}{34}{}{%
         {{hash=32a68e23e3063683e627fddd6ecff803}{%
@@ -355,7 +403,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{3}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -479,7 +527,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{4}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -555,7 +603,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{5}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{3}
@@ -662,7 +710,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{6}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{4}
@@ -719,7 +767,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{7}
+      \field{extraname}{9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -787,7 +835,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{8}
+      \field{extraname}{10}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -842,7 +890,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{9}
+      \field{extraname}{11}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{3}
@@ -911,7 +959,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{10}
+      \field{extraname}{12}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{4}
@@ -986,7 +1034,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{11}
+      \field{extraname}{13}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1049,7 +1097,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{12}
+      \field{extraname}{14}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -1104,7 +1152,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{13}
+      \field{extraname}{15}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -1159,7 +1207,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{14}
+      \field{extraname}{16}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1175,6 +1223,63 @@
       \true{nocite}
       \field{pages}{1\bibrangedash 6}
       \range{pages}{6}
+    \endentry
+    \entry{ComoInfluyePresencia_fontanarrosa_2012}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=0a7774dc97db4798d0e4e8129d743360}{%
+           family={Fontanarrosa},
+           familyi={F\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b888ed29781b07ac6a10ece464e4ce41}{%
+           family={Mongiardino\bibnamedelima Koch},
+           familyi={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Nicolás},
+           giveni={N\bibinitperiod}}}%
+        {{hash=61bce88567e8eb701a6129e4ec142859}{%
+           family={Padro},
+           familyi={P\bibinitperiod},
+           given={Julián},
+           giveni={J\bibinitperiod}}}%
+        {{hash=76d9a9447f22ac75c0ed28b8e4c1c19c}{%
+           family={Soto},
+           familyi={S\bibinitperiod},
+           given={Ignacio\bibnamedelima M.},
+           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Carlos de Bariloche, Argentina}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{60c4a3af228307646d3cb7480af4c3ad}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{60c4a3af228307646d3cb7480af4c3ad}
+      \strng{authornamehash}{60c4a3af228307646d3cb7480af4c3ad}
+      \strng{authorfullhash}{60c4a3af228307646d3cb7480af4c3ad}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{17}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Los Insectos y El Hombre, Diversidad de Interacciones, Diversidad de Miradas}
+      \field{month}{4}
+      \field{sortyear}{2012}
+      \field{title}{¿{{Cómo}} Influye La Presencia de Mescalina En La Viabilidad y En El Tiempo de Desarrollo de Líneas de {{Drosophila}} Buzzatii Con Diferentes Inversiones Cromosómicas?}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{294}
+      \range{pages}{1}
     \endentry
     \entry{StudyBiodiversityArthropod_padro_2012}{report}{}
       \name{author}{4}{}{%
@@ -1216,9 +1321,10 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{15}
+      \field{extraname}{18}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{shortauthor}
@@ -1278,7 +1384,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{16}
+      \field{extraname}{19}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1296,61 +1402,6 @@
       \verb{file}
       \verb C\:\\Users\\elros\\Dropbox\\UTAH UNIVERSITY\\THESIS\\Papers\\Padró et al\\Padró et al-2011-Acta toxicológica argentina.pdf
       \endverb
-    \endentry
-    \entry{ComoInfluyePresencia_fontanarrosa_17}{inproceedings}{}
-      \name{author}{4}{}{%
-        {{hash=0a7774dc97db4798d0e4e8129d743360}{%
-           family={Fontanarrosa},
-           familyi={F\bibinitperiod},
-           given={Pedro},
-           giveni={P\bibinitperiod}}}%
-        {{hash=b888ed29781b07ac6a10ece464e4ce41}{%
-           family={Mongiardino\bibnamedelima Koch},
-           familyi={M\bibinitperiod\bibinitdelim K\bibinitperiod},
-           given={Nicolás},
-           giveni={N\bibinitperiod}}}%
-        {{hash=61bce88567e8eb701a6129e4ec142859}{%
-           family={Padro},
-           familyi={P\bibinitperiod},
-           given={Julián},
-           giveni={J\bibinitperiod}}}%
-        {{hash=76d9a9447f22ac75c0ed28b8e4c1c19c}{%
-           family={Soto},
-           familyi={S\bibinitperiod},
-           given={Ignacio\bibnamedelima M.},
-           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {San Carlos de Bariloche, Argentina}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{60c4a3af228307646d3cb7480af4c3ad}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{60c4a3af228307646d3cb7480af4c3ad}
-      \strng{authornamehash}{60c4a3af228307646d3cb7480af4c3ad}
-      \strng{authorfullhash}{60c4a3af228307646d3cb7480af4c3ad}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{17}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Los Insectos y El Hombre, Diversidad de Interacciones, Diversidad de Miradas}
-      \field{sortyear}{17}
-      \field{title}{¿{{Cómo}} Influye La Presencia de Mescalina En La Viabilidad y En El Tiempo de Desarrollo de Líneas de {{Drosophila}} Buzzatii Con Diferentes Inversiones Cromosómicas?}
-      \field{year}{17}
-      \true{nocite}
-      \field{pages}{294}
-      \range{pages}{1}
     \endentry
   \enddatalist
 \endrefsection

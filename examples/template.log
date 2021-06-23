@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.5)  13 MAY 2021 11:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.5)  23 JUN 2021 11:08
 entering extended mode
 **./template.tex
 (template.tex
@@ -1206,7 +1206,7 @@ Package microtype Info: Character `029' is missing
 (microtype)             Ignoring protrusion settings for this character.
 [6] [7] (template.aux)
 Package rerunfilecheck Info: File `template.out' has not changed.
-(rerunfilecheck)             Checksum: 1B23C58D0F27A501F09AED19DDB4D116;2945.
+(rerunfilecheck)             Checksum: 2FD63F24DF9A241E088EE2BA8107CC59;2940.
 Package logreq Info: Writing requests to 'template.run.xml'.
 \openout1 = `template.run.xml'.
 
@@ -1228,7 +1228,7 @@ gram Files/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Program Files/MiKTeX
 /public/lm/lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsso
 12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsso17.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on template.pdf (7 pages, 795356 bytes).
+Output written on template.pdf (7 pages, 795251 bytes).
 PDF statistics:
  228 PDF objects out of 1000 (max. 8388607)
  45 named destinations out of 1000 (max. 500000)

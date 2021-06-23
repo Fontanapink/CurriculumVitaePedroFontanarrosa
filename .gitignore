@@ -6,3 +6,10 @@
 *.pdf
 *.xml
 *.gz
+*.aux
+*.blg
+*.aux
+*.log
+*.out
+*.pdf
+*.gz

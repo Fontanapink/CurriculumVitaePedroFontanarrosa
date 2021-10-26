@@ -161,29 +161,6 @@
       \field{year}{Febuary 2015}
       \true{nocite}
     \endentry
-    \entry{SyntheticBiologyOpen_}{article}{}
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{3}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labeldatesource}{nodate}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{annotation}{00000 Under Review}
-      \field{journaltitle}{JIB.2020.0045}
-      \field{title}{Synthetic {{Biology Open Language Visual}} ({{SBOL Visual}}) {{Version}} 3.0}
-      \true{nocite}
-      \keyw{update}
-    \endentry
     \entry{SyntheticBiologyOpen_baig_2021}{article}{}
       \name{author}{36}{}{%
         {{hash=32a68e23e3063683e627fddd6ecff803}{%
@@ -384,7 +361,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{4}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -420,6 +397,109 @@
       \verb{url}
       \verb http://www.degruyter.com/document/doi/10.1515/jib-2020-0045/html
       \endverb
+    \endentry
+    \entry{SyntheticBiologyOpen_baig_2021a}{article}{}
+      \name{author}{9}{}{%
+        {{hash=32a68e23e3063683e627fddd6ecff803}{%
+           family={Baig},
+           familyi={B\bibinitperiod},
+           given={Hasan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=0a7774dc97db4798d0e4e8129d743360}{%
+           family={Fontanarrosa},
+           familyi={F\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d9f70eed833513a03ef97534f9871d1d}{%
+           family={McLaughlin},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=842d01d8f5a6cad5c0ec980c34c487dd}{%
+           family={Scott-Brown},
+           familyi={S\bibinithyphendelim B\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=729fc4f6252760859d54bf8f7821a76e}{%
+           family={Vaidyanathan},
+           familyi={V\bibinitperiod},
+           given={Prashant},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3d06c7c32f5e9d805a2500ee889a4371}{%
+           family={Gorochowski},
+           familyi={G\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=330bf80469f329e83c8f57b7f989e5ef}{%
+           family={Misirli},
+           familyi={M\bibinitperiod},
+           given={Goksel},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0ec0ea521a2f36d38a309d2c5c5d94dc}{%
+           family={Beal},
+           familyi={B\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cda3c6c6e2ef7b4ff61916789cdc4ce6}{%
+           family={Myers},
+           familyi={M\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{4b77662bf52e00976de3ad760a8c3358}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{4b77662bf52e00976de3ad760a8c3358}
+      \strng{authornamehash}{7b480232267dac2356b4485ee18870c1}
+      \strng{authorfullhash}{4b77662bf52e00976de3ad760a8c3358}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{People who engineer biological organisms often find it useful to draw diagrams in order to communicate both the structure of the nucleic acid sequences that they are engineering and the functional relationships between sequence features and other molecular species. Some typical practices and conventions have begun to emerge for such diagrams. SBOL Visual aims to organize and systematize such conventions in order to produce a coherent language for expressing the structure and function of genetic designs. This document details version 3.0 of SBOL Visual, a new major revision of the standard. The major difference between SBOL Visual 3 and SBOL Visual 2 is that diagrams and glyphs are defined with respect to the SBOL 3 data model rather than the SBOL 2 data model. A byproduct of this change is that the use of dashed undirected lines for subsystem mappings has been removed, pending future determination on how to represent general SBOL 3 constraints; in the interim, this annotation can still be used as an annotation. Finally, deprecated material has been removed from collection of glyphs: the deprecated ``insulator'' glyph and ``macromolecule'' alternative glyphs have been removed, as have the deprecated BioPAX alternatives to SBO terms.}
+      \field{annotation}{00000}
+      \field{day}{20}
+      \field{issn}{1613-4516}
+      \field{journaltitle}{Journal of Integrative Bioinformatics}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{shortjournal}{J. Integr. Bioinforma.}
+      \field{title}{Synthetic Biology Open Language Visual ({{SBOL}} Visual) Version 3.0}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1515/jib-2021-0013
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\elros\\Dropbox\\SYNTHETIC BIOLOGY\\Synthetic Biology Papers\\Synthetic biology open language visual (SBOL visual) version 3_Baig et al_2021.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.degruyter.com/document/doi/10.1515/jib-2021-0013/html
+      \endverb
+      \verb{url}
+      \verb https://www.degruyter.com/document/doi/10.1515/jib-2021-0013/html
+      \endverb
+      \keyw{diagrams,SBOL visual,standards}
     \endentry
     \entry{StochasticHazardAnalysis_buecherl_2021}{article}{}
       \name{author}{7}{}{%
@@ -479,7 +559,7 @@
       \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{2}
+      \field{extradate}{3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
@@ -549,7 +629,7 @@
       \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{3}
+      \field{extradate}{4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
@@ -567,7 +647,8 @@
       \field{enddateera}{ce}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{update}
+      \field{pages}{25\bibrangedash 29}
+      \range{pages}{5}
     \endentry
     \entry{IBioSimServerTool_stoughton_2021}{inproceedings}{}
       \name{author}{5}{}{%
@@ -617,7 +698,7 @@
       \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{4}
+      \field{extradate}{5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
@@ -635,7 +716,8 @@
       \field{enddateera}{ce}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{update}
+      \field{pages}{72\bibrangedash 74}
+      \range{pages}{3}
     \endentry
     \entry{SyntheticBiologyOpen_baig_2020a}{article}{}
       \name{author}{34}{}{%

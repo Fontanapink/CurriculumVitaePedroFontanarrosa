@@ -161,6 +161,302 @@
       \field{year}{Febuary 2015}
       \true{nocite}
     \endentry
+    \entry{RobustnessReproducibilitySimple_cummins_2022}{misc}{}
+      \name{author}{32}{}{%
+        {{hash=ec7d08deca2f6da439d3113b3a30fcd7}{%
+           family={Cummins},
+           familyi={C\bibinitperiod},
+           given={Breschine},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1db7e2c4fc25f21ada6d5d251a319a82}{%
+           family={Vrana},
+           familyi={V\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c96f45a35004d2d85e27aac22b10b4ab}{%
+           family={Moseley},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=911398b0343f35c76ac68369d1f07417}{%
+           family={Eramian},
+           familyi={E\bibinitperiod},
+           given={Hamed},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c1f4e4fd63089b4c0037c6650daa9b64}{%
+           family={Deckard},
+           familyi={D\bibinitperiod},
+           given={Anastasia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0a7774dc97db4798d0e4e8129d743360}{%
+           family={Fontanarrosa},
+           familyi={F\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=50c9e78537ee69ea3ddb7eb318cfa90f}{%
+           family={Bryce},
+           familyi={B\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=723d61c34f55d05c81d6471ffa067647}{%
+           family={Weston},
+           familyi={W\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=32f358c7457cf359cae8b9f966923a3f}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+        {{hash=199d7d8f18585a8f1d4f599bf905e453}{%
+           family={Nowak},
+           familyi={N\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7f98827bbc0d1c4352e18d4816e0a35c}{%
+           family={Motta},
+           familyi={M\bibinitperiod},
+           given={Francis\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=fd0ee60207756c3073254ebcec09e43b}{%
+           family={Eslami},
+           familyi={E\bibinitperiod},
+           given={Mohammed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=51152e0eba31c8c1f08de57f72b7fd4a}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Kara\bibnamedelima Layne},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=d0eb2eb58b1d205ba872e2a5ecd649b7}{%
+           family={Goldman},
+           familyi={G\bibinitperiod},
+           given={Robert\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=318c3216c133200b418b9447f2b84fae}{%
+           family={Myers},
+           familyi={M\bibinitperiod},
+           given={Chris\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d934d01c16b30f50991878c462359a4d}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Tessa},
+           giveni={T\bibinitperiod}}}%
+        {{hash=fb452ec82d2cdc00a3c362676e01384e}{%
+           family={Vaughn},
+           familyi={V\bibinitperiod},
+           given={Matthew\bibnamedelima W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=8600c1165215ef82ba2fae4bae3baa94}{%
+           family={Gaffney},
+           familyi={G\bibinitperiod},
+           given={Niall},
+           giveni={N\bibinitperiod}}}%
+        {{hash=c58cec13f5af21bf4371302ceab96715}{%
+           family={Urrutia},
+           familyi={U\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod}}}%
+        {{hash=165ee33878ed8bb6d9c7bd75a8ce4e5f}{%
+           family={Gopaulakrishnan},
+           familyi={G\bibinitperiod},
+           given={Shweta},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d8dbf4a7ee3231dd996d6992ebb56320}{%
+           family={Biggers},
+           familyi={B\bibinitperiod},
+           given={Vanessa},
+           giveni={V\bibinitperiod}}}%
+        {{hash=543ae3f26fc6f3d608529f05b7afe3f1}{%
+           family={Higa},
+           familyi={H\bibinitperiod},
+           given={Trissha\bibnamedelima R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=5ab0fb02d268075571cb198b603b5699}{%
+           family={Mosqueda},
+           familyi={M\bibinitperiod},
+           given={Lorraine\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=76d6e520f74366c183bd03e76f0a6761}{%
+           family={Gameiro},
+           familyi={G\bibinitperiod},
+           given={Marcio},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fe56e54d755bc209da456c498a453826}{%
+           family={Gedeon},
+           familyi={G\bibinitperiod},
+           given={Tomáš},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d11814522a0686c1b24ab9291e66523b}{%
+           family={Mischaikow},
+           familyi={M\bibinitperiod},
+           given={Konstantin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=0ec0ea521a2f36d38a309d2c5c5d94dc}{%
+           family={Beal},
+           familyi={B\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c4367ba35fe91ee675c9ea9d9091811e}{%
+           family={Bartley},
+           familyi={B\bibinitperiod},
+           given={Bryan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6b1b95cdca60865947b9a309e5e904f6}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d06d485326856b14ba3664074477c6ae}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Tramy\bibnamedelima T.},
+           giveni={T\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=26ecb2a072a1756df1679cba1635eea5}{%
+           family={Roehner},
+           familyi={R\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1e2b4d490f51c725cc3f31a2696750a9}{%
+           family={Haase},
+           familyi={H\bibinitperiod},
+           given={Steven\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {bioRxiv}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{584a64ff040d0fa0e776191ba46cd52b}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{584a64ff040d0fa0e776191ba46cd52b}
+      \strng{authornamehash}{d82679f203288df4920b307c7d4c1334}
+      \strng{authorfullhash}{584a64ff040d0fa0e776191ba46cd52b}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Computational tools addressing various components of design-build-test-learn loops (DBTL) for the construction of synthetic genetic networks exist, but do not generally cover the entire DBTL loop. This manuscript introduces an end-to-end sequence of tools that together form a DBTL loop called DART (Design Assemble Round Trip). DART provides rational selection and refinement of genetic parts to construct and test a circuit. Computational support for experimental process, metadata management, standardized data collection, and reproducible data analysis is provided via the previously published Round Trip (RT) test-learn loop. The primary focus of this work is on the Design Assemble (DA) part of the tool chain, which improves on previous techniques by screening up to thousands of network topologies for robust performance using a novel robustness score derived from dynamical behavior based on circuit topology only. In addition, novel experimental support software is introduced for the assembly of genetic circuits. A complete design-through-analysis sequence is presented using several OR and NOR circuit designs, with and without structural redundancy, that are implemented in budding yeast. The execution of DART tested the predictions of the design tools, specifically with regard to robust and reproducible performance under different experimental conditions. The data analysis depended on a novel application of machine learning techniques to segment bimodal flow cytometry distributions. Evidence is presented that, in some cases, a more complex build may impart more robustness and reproducibility across experimental conditions.}
+      \field{day}{11}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{Robustness and Reproducibility of Simple and Complex Synthetic Logic Circuit Designs Using a {{DBTL}} Loop}
+      \field{urlday}{19}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{2022.06.10.495560}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1101/2022.06.10.495560
+      \endverb
+      \verb{urlraw}
+      \verb https://www.biorxiv.org/content/10.1101/2022.06.10.495560v1
+      \endverb
+      \verb{url}
+      \verb https://www.biorxiv.org/content/10.1101/2022.06.10.495560v1
+      \endverb
+      \keyw{update}
+    \endentry
+    \entry{InvestigatingModelingFactors_zilberzwige-tal_2022a}{misc}{}
+      \name{author}{6}{}{%
+        {{hash=cabd0d4e20024d7a498c2edc273d3644}{%
+           family={Zilberzwige-Tal},
+           familyi={Z\bibinithyphendelim T\bibinitperiod},
+           given={Shai},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0a7774dc97db4798d0e4e8129d743360}{%
+           family={Fontanarrosa},
+           familyi={F\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e6756962fbfcd0211b98d03a54264f46}{%
+           family={Bychenko},
+           familyi={B\bibinitperiod},
+           given={Darya},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3fe136b69e6b67e3b6433150d17a4aeb}{%
+           family={Dorfan},
+           familyi={D\bibinitperiod},
+           given={Yuval},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=53ee72861a7f36abb641f27875d21673}{%
+           family={Gazit},
+           familyi={G\bibinitperiod},
+           given={Ehud},
+           giveni={E\bibinitperiod}}}%
+        {{hash=318c3216c133200b418b9447f2b84fae}{%
+           family={Myers},
+           familyi={M\bibinitperiod},
+           given={Chris\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {bioRxiv}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{13ec148cb4cd8a602790bb4aed20206a}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{13ec148cb4cd8a602790bb4aed20206a}
+      \strng{authornamehash}{940a19328c56882ac2071757b90b11f9}
+      \strng{authorfullhash}{13ec148cb4cd8a602790bb4aed20206a}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Over the past two decades, synthetic biology has yielded ever more complex genetic circuits able to perform sophisticated functions in response to specific signals. Yet, genetic circuits are not immediately transferable to an outside-the-lab setting where their performance is highly compromised. We propose introducing a scale step to the design-build-test workflow to include factors that might contribute to unexpected genetic circuit performance. As a proof-of-concept, we designed and tested a genetic circuit under different temperatures, mediums, inducer concentrations, and bacterial growth phases. We determined that the circuit's performance is dramatically altered when these factors differ from the optimal lab conditions. Based on these results, a scaling effort, coupled with a learning process, proceeded to generate model predictions for the genetic circuit's performance under untested conditions, which is currently lacking in synthetic biology application design. As the synthetic biology discipline transitions from proof-of-concept genetic programs to appropriate and safe application implementations, more emphasis on a scale step is needed to ensure correct and robust performances.}
+      \field{day}{17}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{title}{Investigating and {{Modeling}} the {{Factors}} That {{Affect Genetic Circuit Performance}}}
+      \field{urlday}{19}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{2022.05.16.492150}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1101/2022.05.16.492150
+      \endverb
+      \verb{urlraw}
+      \verb https://www.biorxiv.org/content/10.1101/2022.05.16.492150v1
+      \endverb
+      \verb{url}
+      \verb https://www.biorxiv.org/content/10.1101/2022.05.16.492150v1
+      \endverb
+      \keyw{update}
+    \endentry
     \entry{SyntheticBiologyOpen_baig_2021}{article}{}
       \name{author}{36}{}{%
         {{hash=32a68e23e3063683e627fddd6ecff803}{%
@@ -361,7 +657,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{3}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -463,7 +759,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{4}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -556,7 +852,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{5}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{3}
@@ -626,7 +922,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{6}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{4}
@@ -695,7 +991,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{7}
+      \field{extraname}{9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{5}
@@ -909,7 +1205,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{8}
+      \field{extraname}{10}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -1042,7 +1338,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{9}
+      \field{extraname}{11}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -1130,7 +1426,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{10}
+      \field{extraname}{12}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{3}
@@ -1246,7 +1542,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{11}
+      \field{extraname}{13}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{4}
@@ -1312,7 +1608,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{12}
+      \field{extraname}{14}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -1382,7 +1678,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{13}
+      \field{extraname}{15}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -1443,7 +1739,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{14}
+      \field{extraname}{16}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{3}
@@ -1518,7 +1814,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{15}
+      \field{extraname}{17}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{4}
@@ -1594,7 +1890,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{16}
+      \field{extraname}{18}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1663,7 +1959,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{17}
+      \field{extraname}{19}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -1726,7 +2022,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{18}
+      \field{extraname}{20}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -1783,7 +2079,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{19}
+      \field{extraname}{21}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1840,7 +2136,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{20}
+      \field{extraname}{22}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -1899,7 +2195,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{21}
+      \field{extraname}{23}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -1961,7 +2257,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{22}
+      \field{extraname}{24}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}

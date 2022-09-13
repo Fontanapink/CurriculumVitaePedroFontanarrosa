@@ -5,6 +5,7 @@
 % conditions of the LaTeX Project Public License version 1.3c,
 % available at http://www.latex-project.org/lppl/.
 
+%%%%%%%%%%% RUN USING XeLaTeX
 
 \documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
 
@@ -24,6 +25,7 @@
 %\setlength{\makecvheadnamewidth}{10cm}            % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
 
 %% ADDED PACKAGES
+\usepackage[disable]{todonotes}
 \usepackage{csquotes}
 \usepackage[bibstyle=publist, maxbibnames=99,backend=biber, sorting = ydnt, doi=false ,url=false, isbn=false, giveninits=true, plauthorhandling=highlight, plauthorname=Fontanarrosa, boldyear=false, date=year]{biblatex}
 %backend=biber. Hay que correr Latex, despues biber, y despues LaTeX denuevo para que funcione
@@ -37,11 +39,13 @@
 
 \usepackage{textcomp} %Symbols, symbols, symbols
 
+\usepackage{academicons}
+
 % personal data
 \name{Pedro}{Fontanarrosa}
 \title{Curriculum Vitae}                               % optional, remove / comment the line if not wanted
 %\address{street and number}{postcode city}{country}% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
-\phone[mobile]{+1~(801)~875~8524}                   % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
+\phone[mobile]{+1~(720)~736~3637}                   % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
 %\phone[fixed]{+2~(345)~678~901}
 %\phone[fax]{+3~(456)~789~012}
 \email{pfontanarrosa@gmail.com}                               % optional, remove / comment the line if not wanted
@@ -71,6 +75,10 @@
 %\newcites{book,misc}{{Books},{Others}}
 %----------------------------------------------------------------------------------
 %            content
+%%%%%% THIS is to determine the final length of the CV, by removing less important sections from it
+\newcounter{priority}
+\setcounter{priority}{2}
+
 %----------------------------------------------------------------------------------
 \begin{document}
 %\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
@@ -82,7 +90,7 @@
 
 \section{Education}
 
-\cventry{2019--Present}{Ph.D. in Bioengineering, Synthetic Biology Track}{University of Utah}{Utah}{\textit{3.8 of 4.0}}{}  % Arguments not required can be left empty
+\cventry{2019--2022}{Ph.D. in Biomedical Engineering, Synthetic Biology Track}{University of Utah}{Utah}{\textit{3.8 of 4.0}}{}  % Arguments not required can be left empty
 
 \cventry{2017--2019}{Master in Bioengineering, Synthetic Biology Track}{University of Utah}{Utah}{\textit{GPA: 3.67 of 4.0}}{Thesis option.}
 
@@ -94,6 +102,12 @@
 %	THESIS SECTION
 %---------------------------------------------------------------------------------------
 
+
+\section{Ph.D. Dissertation}
+\cvline{Title}{\large \emph{{Investigating Genetic Circuit Failures}}}
+\cvitem{Supervisors}{Professors Chris Myers, Tara Deans, Orly Alter, Yuval Dorfan, Tamara Bidone}
+\cvitem{Description}{This dissertation analyzes and develops methods to understand and avoid genetic circuit failures to help in the re-design process of synthetic biology.}
+
 \section{Masters Thesis}
 
 \cvline{Title}{\large \emph{Automated Generation of Dynamic Models for Genetic Regulatory Networks}}
@@ -103,8 +117,7 @@
 \cvline{Title}{\large \emph{Sources of life history trait and morphology variability associated with resistance to alkaloids in a cactophilic gender of \textit{Drosophila}}}
 \cvitem{Supervisors}{Professors Ignacio M. Soto, María Isabel Remis, Marcela Karina Castelo, and Ana Laura Carbajal de Fuente}
 \cvitem{Description}{This thesis explores the idea that speciation in cactophilic \textit{Drosophila} may be linked to alkaloid presence of different cacti.}
-
-
+\pagebreak
 %---------------------------------------------------------------------------------------
 %	PUBLICATIONS SECTION
 %---------------------------------------------------------------------------------------
@@ -114,6 +127,10 @@
 \subsection{Refereed Journal Articles}
 %\cvitem{}{\printbibliography[title={Articles},type=article,heading=subbibnumbered]}
 \printbibliography[heading=none,type=article]
+
+\subsection{Preprints}
+%\cvitem{}{\printbibliography[title={Articles},type=article,heading=subbibnumbered]}
+\printbibliography[heading=none,type=misc]
 
 \subsection{Peer-reviewed Abstracts, Short Papers, and Conference Proceedings}
 \printbibliography[heading=none, type=inproceedings]
@@ -213,7 +230,7 @@
 
 \subsection{Other}
 
-\cventry{2019--Present}{\httplink[Synthetic Biology Open Language (SBOL)]{sbolstandard.org/} Editor}{\httplink[COMBINE Standards]{co.mbine.org/standards}}
+\cventry{2019--2022}{\httplink[Synthetic Biology Open Language (SBOL)]{sbolstandard.org/} Editor}{\httplink[COMBINE Standards]{co.mbine.org/standards}}
 {}{}
 {SBOL Editors' primary responsibility is ensuring the effective curation of documents for the community. \emaillink[SBOL Editors]{sbol-editors@googlegroups.com} are elected by a community vote and hold weekly meetings to coordinate their execution of these responsibilities.
 	\newline{}
@@ -240,11 +257,18 @@
 %---------------------------------------------------------------------------------------
 %	Scientific Conferences SECTION
 %---------------------------------------------------------------------------------------
+\todo[inline]{This is to break the page so that the title alone is not in one of the pages}
+\emptysection{}
+\closesection
+\pagebreak
 
 \section{Scientific Conferences}
-
-
+\todo[inline]{uf make sure to update this}
 \subsection{As an expositor}
+
+\cventry{2022}{\httplink[SEED 2022]{https://synbioconference.org/2022}}{}{Washington DC, USA}{}{\textsc{workshop}: "Software Tools Workshop for GDA design". Authors: \textbf{Fontanarrosa, Pedro}; B{\"u}cherl, Lukas; Jet Mante; Sai Saminemi; and Myers, Chris J.}
+
+\cventry{2022}{\httplink[Harmony 2022]{https://combine-org.github.io/author/harmony-2022/}}{}{Washington DC, USA}{}{\textsc{contributed talk}: "Robustness and Noise for Genetic Circuit Design Choices". Authors: \textbf{Fontanarrosa, Pedro}; and Myers, Chris J.}
 
 \cventry{2021}{\httplink[IWBDA 2021]{https://www.iwbdaconf.org/2021/}}{}{Online (virtual)}{}{\textsc{contributed talk}: "Comparison of Extrinsic and Intrinsic Noise Model Predictions for Genetic Circuit Failures". Authors: \textbf{Fontanarrosa, Pedro}; B{\"u}cherl, Lukas; and Myers, Chris J.}
 
@@ -279,9 +303,11 @@
 %---------------------------------------------------------------------------------------
 
 \section{Computer skills}
-\cvitem{Beginner}{\textsc{html}}
-\cvitem{Intermediate}{\textsc{C++}, \textsc{javascript}, \textsc{R}}
-\cvitem{Advanced}{\textsc{python}, \textsc{java}, \LaTeX}
+\cvcomputer{Programming}{\textsc{python}, \textsc{java}, \textsc{C++},\textsc{javascript}, \textsc{R}}{}{}
+\cvcomputer{}{}{}{}
+\cvcomputer{Writing}{\LaTeX}{Web Development}{\textsc{html}, Hugo}
+\cvcomputer{Databases}{\textsc{SQL}}{}{}
+
 
 %%----------------------------------------------------------------------------------------
 %%	COMMUNICATION SKILLS SECTION
@@ -298,10 +324,10 @@
 
 \section{Languages}
 
-\cvitemwithcomment{Spanish}{Mothertongue}{}
-\cvitemwithcomment{English}{Proficient}{TOEFL ITP: 630 (February 2016)}
-\cvitemwithcomment{Portuguese}{Intermediate}{Conversationally fluent}
-\cvitemwithcomment{French}{Beginner}{Can read \& write}
+\cvlanguage{Spanish}{Mothertongue}{}
+\cvlanguage{English}{Proficient}{TOEFL ITP: 630 (February 2016)}
+\cvlanguage{Portuguese}{Intermediate}{Conversationally fluent}
+\cvlanguage{French}{Beginner}{Can read \& write}
 
 %---------------------------------------------------------------------------------------
 %	Certifications and Trainings SECTION
@@ -324,43 +350,44 @@
 %---------------------------------------------------------------------------------------
 %	VOLUNTEER SECTION
 %---------------------------------------------------------------------------------------
-
-\section{Volunteer Experience}
-
-%---------------------------------------------------------------------------------------
-%	INTERESTS SECTION
-%---------------------------------------------------------------------------------------
-
-\cventry{2013--2017}{\httplink[Biohacking BA]{www.meetup.com/es/biohackingBA/members/92635202/} volunteer work}{}{Argentina}{}{Artists, scientists, engineers, hackers and any person who is curios and wants to learn, play and build "life" is invited to join our "garage laboratories" inspired in the maker spaces. Volunteer work consisted on organization of talks, workshops, invited guest lectures as well as DIY projects like:
-	\begin{itemize}
-		\item Recycling of old refrigerators into incubators
-		\item Manufacture a PCR thermocycler using Arduino
-		\item Synthesize a "Hello World" with \textit{E. coli} and GFP
-		\item Develop an open hardware glucose meter
-		\item Create art using genetic engineering techniques
-		\item 3D print a micropipette
-\end{itemize}}
-
-\cventry{2010--2012}{Organization of yearly \httplink["Biology Week"]{exactas.uba.ar/extension/comunicacion-publica-de-la-ciencia/semanas-de-la-ciencias/}}{School of Natural \& Exact Sciences, University of Buenos Aires}{Argentina}{}{Each year, the University of Buenos Aires (UBA) hosts a "Biology Week" intended to promote science careers for high school students. The organization of this event required, amongst other things, the development of posters with information on the different tracks in the Biological sciences and scientific research, and the design of different installations and stands with interactive science projects so that students can take part of.}
-
-\cventry{2006--2010}{\httplink[Argentine Atheist Association]{laicismo.org/argatea-asociacion-civil-de-ateos-en-argentina/} volunteer work}{}{Argentina}{}{Volunteer work varied from:
-	\begin{itemize}
-		\item Organization of yearly conference meeting in Mar del Plata, Argentina
-		\item Translation of documents
-		\item Divulgation of information
-		\item Organization of invited talks and other events
-		\item Finance managment
-\end{itemize}}
-
-\cventry{2004--2008}{\httplink[The Argentine Homosexual Community (CHA)]{www.cha.org.ar/} volunteer work }{}{Argentina}{}{Volunteer work varied from:
-	\begin{itemize}
-		\item Organization of yearly conference meeting in Mar del Plata, Argentina
-		\item Translation of documents
-		\item Divulgation of information
-		\item Organization of invited talks and other events
-		\item Finance management
-\end{itemize}}
-
+\todo[inline]{example of a if/then clause to remove sections. Remember to end it with backslash fi}
+\ifnum\value{priority}=3
+	\section{Volunteer Experience}
+	
+	%---------------------------------------------------------------------------------------
+	%	INTERESTS SECTION
+	%---------------------------------------------------------------------------------------
+	
+	\cventry{2013--2017}{\httplink[Biohacking BA]{www.meetup.com/es/biohackingBA/members/92635202/} volunteer work}{}{Argentina}{}{Artists, scientists, engineers, hackers and any person who is curios and wants to learn, play and build "life" is invited to join our "garage laboratories" inspired in the maker spaces. Volunteer work consisted on organization of talks, workshops, invited guest lectures as well as DIY projects like:
+		\begin{itemize}
+			\item Recycling of old refrigerators into incubators
+			\item Manufacture a PCR thermocycler using Arduino
+			\item Synthesize a "Hello World" with \textit{E. coli} and GFP
+			\item Develop an open hardware glucose meter
+			\item Create art using genetic engineering techniques
+			\item 3D print a micropipette
+	\end{itemize}}
+	
+	\cventry{2010--2012}{Organization of yearly \httplink["Biology Week"]{exactas.uba.ar/extension/comunicacion-publica-de-la-ciencia/semanas-de-la-ciencias/}}{School of Natural \& Exact Sciences, University of Buenos Aires}{Argentina}{}{Each year, the University of Buenos Aires (UBA) hosts a "Biology Week" intended to promote science careers for high school students. The organization of this event required, amongst other things, the development of posters with information on the different tracks in the Biological sciences and scientific research, and the design of different installations and stands with interactive science projects so that students can take part of.}
+	
+	\cventry{2006--2010}{\httplink[Argentine Atheist Association]{laicismo.org/argatea-asociacion-civil-de-ateos-en-argentina/} volunteer work}{}{Argentina}{}{Volunteer work varied from:
+		\begin{itemize}
+			\item Organization of yearly conference meeting in Mar del Plata, Argentina
+			\item Translation of documents
+			\item Divulgation of information
+			\item Organization of invited talks and other events
+			\item Finance managment
+	\end{itemize}}
+	
+	\cventry{2004--2008}{\httplink[The Argentine Homosexual Community (CHA)]{www.cha.org.ar/} volunteer work }{}{Argentina}{}{Volunteer work varied from:
+		\begin{itemize}
+			\item Organization of yearly conference meeting in Mar del Plata, Argentina
+			\item Translation of documents
+			\item Divulgation of information
+			\item Organization of invited talks and other events
+			\item Finance management
+	\end{itemize}}
+\fi
 %-------------------------------------------------------------------------------------
 
 %\section{Example entries}

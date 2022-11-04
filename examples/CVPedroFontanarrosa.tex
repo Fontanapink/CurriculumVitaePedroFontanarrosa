@@ -49,7 +49,7 @@
 %\phone[fixed]{+2~(345)~678~901}
 %\phone[fax]{+3~(456)~789~012}
 \email{pfontanarrosa@gmail.com}                               % optional, remove / comment the line if not wanted
-\homepage{fontanapink.github.io/}                         % optional, remove / comment the line if not wanted
+\homepage{fontanapink.github.io}                         % optional, remove / comment the line if not wanted
 %\social[linkedin]{john.doe}                        % optional, remove / comment the line if not wanted
 %\social[xing]{john\_doe}                           % optional, remove / comment the line if not wanted
 %\social[twitter]{jdoe}                             % optional, remove / comment the line if not wanted
@@ -89,6 +89,7 @@
 %---------------------------------------------------------------------------------------
 
 \section{Education}
+\cventry{2022--Present}{Postdoctoral Fellow}{University of Boulder}{Colorado}{}{}
 
 \cventry{2019--2022}{Ph.D. in Biomedical Engineering, Synthetic Biology Track}{University of Utah}{Utah}{\textit{3.8 of 4.0}}{}  % Arguments not required can be left empty
 
@@ -332,21 +333,21 @@
 %---------------------------------------------------------------------------------------
 %	Certifications and Trainings SECTION
 %---------------------------------------------------------------------------------------
-
-\section{Certifications and Trainings}
-
-\cventry{2015}{Principles of Computing (Part 2)}{Rice University, Coursera Massive Open Online Course}{}{grade: 93.8\%}{Statement of Accomplishment with Distinction}
-
-\cventry{2015}{Principles of Computing (Part 1)}{Rice University, Coursera Massive Open Online Course}{}{grade: 95.7\%}{Statement of Accomplishment with Distinction}
-
-\cventry{2014}{An Introduction to Interactive Programming in Python}{Rice University, Coursera Massive Open Online Course}{}{grade: 100\%}{Statement of Accomplishment with Distinction}
-
-\cventry{2012}{Experimental Design and Statistic Analysis for Graduate Thesis}{Department of Ecology, Genetics and Evolution, University of Buenos Aires }{Argentina}{}{}
-
-\cventry{2011}{“Metabiology: Life as Evolving Software”, by Gregory Chaitin}{School of Computer Science (ECI), University of Buenos Aires}{Argentina}{}{}
-
-\cventry{2009}{Speech, Debate and Leadership}{School of Law, University of Buenos Aires}{Argentina}{}{}
-
+\ifnum\value{priority}=3
+	\section{Certifications and Trainings}
+	
+	\cventry{2015}{Principles of Computing (Part 2)}{Rice University, Coursera Massive Open Online Course}{}{grade: 93.8\%}{Statement of Accomplishment with Distinction}
+	
+	\cventry{2015}{Principles of Computing (Part 1)}{Rice University, Coursera Massive Open Online Course}{}{grade: 95.7\%}{Statement of Accomplishment with Distinction}
+	
+	\cventry{2014}{An Introduction to Interactive Programming in Python}{Rice University, Coursera Massive Open Online Course}{}{grade: 100\%}{Statement of Accomplishment with Distinction}
+	
+	\cventry{2012}{Experimental Design and Statistic Analysis for Graduate Thesis}{Department of Ecology, Genetics and Evolution, University of Buenos Aires }{Argentina}{}{}
+	
+	\cventry{2011}{“Metabiology: Life as Evolving Software”, by Gregory Chaitin}{School of Computer Science (ECI), University of Buenos Aires}{Argentina}{}{}
+	
+	\cventry{2009}{Speech, Debate and Leadership}{School of Law, University of Buenos Aires}{Argentina}{}{}
+\fi
 %---------------------------------------------------------------------------------------
 %	VOLUNTEER SECTION
 %---------------------------------------------------------------------------------------

@@ -3,7 +3,6 @@
 *.blg
 *.log
 *.out
-*.pdf
 *.xml
 *.gz
 *.aux
@@ -11,5 +10,4 @@
 *.aux
 *.log
 *.out
-*.pdf
 *.gz

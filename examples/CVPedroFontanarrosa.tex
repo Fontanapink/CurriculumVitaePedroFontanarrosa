@@ -7,20 +7,24 @@
 
 %%%%%%%%%%% RUN USING XeLaTeX
 
+% !TeX program = lualatex
+
 \documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
 
 % moderncv themes
 \moderncvstyle{classic}                             % style options are 'casual' (default), 'classic', 'banking', 'oldstyle' and 'fancy'
-\moderncvcolor{blue}                               % color options 'black', 'blue' (default), 'burgundy', 'green', 'grey', 'orange', 'purple' and 'red'
+\moderncvcolor{black}                               % color options 'black', 'blue' (default), 'burgundy', 'green', 'grey', 'orange', 'purple' and 'red'
+\moderncvicons{awesome}
 %\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
 %\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
 
 % character encoding
-%\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
 %\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
 
 % adjust the page margins
 \usepackage[scale=0.75]{geometry}
+\usepackage{setspace}
 %\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
 %\setlength{\makecvheadnamewidth}{10cm}            % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
 
@@ -89,11 +93,12 @@
 %---------------------------------------------------------------------------------------
 
 \section{Education}
-\cventry{2022--Present}{Postdoctoral Fellow}{University of Boulder}{Colorado}{}{}
+\cventry{2023--Present}{Postdoctoral Researcher}{University College London}{London, UK}{}{}
+\cventry{2022--2023}{Postdoctoral Fellow}{University of Boulder}{Colorado, USA}{}{}
 
-\cventry{2019--2022}{Ph.D. in Biomedical Engineering, Synthetic Biology Track}{University of Utah}{Utah}{\textit{3.8 of 4.0}}{}  % Arguments not required can be left empty
+\cventry{2019--2022}{Ph.D. in Biomedical Engineering, Synthetic Biology Track}{University of Utah}{Utah, USA}{\textit{3.8 of 4.0}}{}  % Arguments not required can be left empty
 
-\cventry{2017--2019}{Master in Bioengineering, Synthetic Biology Track}{University of Utah}{Utah}{\textit{GPA: 3.67 of 4.0}}{Thesis option.}
+\cventry{2017--2019}{Master in Bioengineering, Synthetic Biology Track}{University of Utah}{Utah, USA}{\textit{GPA: 3.67 of 4.0}}{Thesis option.}
 
 \cventry{2007--2014}{Licentiate in Biological Sciences, orientation Genetics, Evolution and Ecology}{University of Buenos Aires}
 {Argentina}{GPA: 8.39 of 10.00}
@@ -104,12 +109,12 @@
 %---------------------------------------------------------------------------------------
 
 
-\section{Ph.D. Dissertation}
+\subsection{Ph.D. Dissertation}
 \cvline{Title}{\large \emph{{Investigating Genetic Circuit Failures}}}
 \cvitem{Supervisors}{Professors Chris Myers, Tara Deans, Orly Alter, Yuval Dorfan, Tamara Bidone}
 \cvitem{Description}{This dissertation analyzes and develops methods to understand and avoid genetic circuit failures to help in the re-design process of synthetic biology.}
 
-\section{Masters Thesis}
+\subsection{Masters Thesis}
 
 \cvline{Title}{\large \emph{Automated Generation of Dynamic Models for Genetic Regulatory Networks}}
 \cvitem{Supervisors}{Professors Chris Myers, Tara Deans and Orly Alter}

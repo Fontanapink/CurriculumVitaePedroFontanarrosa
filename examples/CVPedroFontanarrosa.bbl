@@ -324,7 +324,7 @@
       \true{nocite}
       \keyw{\#nosource,update}
     \endentry
-    \entry{buecherl_2023_SyntheticBiologyOpen}{article}{}
+    \entry{buecherl_2023_SyntheticBiologyOpena}{article}{}
       \name{author}{18}{}{%
         {{hash=6eeb8234f599d917896d425cc0c73297}{%
            family={Buecherl},
@@ -423,7 +423,7 @@
            familyi={1\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {De Gruyter}%
+        {Walter de Gruyter GmbH}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{fullhash}{a51bc3ec1f9fe9c2c008bf83c576fa2c}
@@ -442,18 +442,13 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
-      \field{abstract}{Synthetic biology builds upon genetics, molecular biology, and metabolic engineering by applying engineering principles to the design of biological systems. When designing a synthetic system, synthetic biologists need to exchange information about multiple types of molecules, the intended behavior of the system, and actual experimental measurements. The Synthetic Biology Open Language (SBOL) has been developed as a standard to support the specification and exchange of biological design information in synthetic biology, following an open community process involving both bench scientists and scientific modelers and software developers, across academia, industry, and other institutions. This document describes SBOL 3.1.0, which improves on version 3.0.0 by including a number of corrections and clarifications as well as several other updates and enhancements. First, this version includes a complete set of validation rules for checking whether documents are valid SBOL 3. Second, the best practices section has been moved to an online repository that allows for more rapid and interactive of sharing these conventions. Third, it includes updates based upon six community approved enhancement proposals. Two enhancement proposals are related to the representation of an object's namespace. In particular, the Namespace class has been removed and replaced with a namespace property on each class. Another enhancement is the generalization of the CombinatorialDeriviation class to allow direct use of Features and Measures . Next, the Participation class now allow Interactions to be participants to describe higher-order interactions. Another change is the use of Sequence Ontology terms for Feature orientation . Finally, this version of SBOL has generalized from using Unique Reference Identifiers (URIs) to Internationalized Resource Identifiers (IRIs) to support international character sets.}
-      \field{issn}{1613-4516}
       \field{journaltitle}{Journal of Integrative Bioinformatics}
-      \field{langid}{english}
       \field{month}{3}
+      \field{number}{1}
       \field{sortyear}{2023}
       \field{title}{Synthetic Biology Open Language ({{SBOL}}) Version 3.1.0}
-      \field{urlday}{15}
-      \field{urlmonth}{3}
-      \field{urlyear}{2023}
+      \field{volume}{20}
       \field{year}{2023}
-      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.1515/jib-2022-0058
@@ -461,8 +456,9 @@
       \verb{file}
       \verb C:\Users\User\Dropbox\ZOTEROreferences\Synthetic biology open language (SBOL) version 3_Buecherl et al_2023.pdf
       \endverb
+      \keyw{/unread}
     \endentry
-    \entry{cummins_2023_RobustnessReproducibilitySimple}{article}{}
+    \entry{cummins_2023_RobustnessReproducibilitySimplea}{article}{}
       \name{author}{32}{}{%
         {{hash=ec7d08deca2f6da439d3113b3a30fcd7}{%
            family={Cummins},
@@ -630,6 +626,9 @@
            family={1111},
            familyi={1\bibinitperiod}}}%
       }
+      \list{publisher}{1}{%
+        {Oxford University Press (OUP)}%
+      }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{fullhash}{584a64ff040d0fa0e776191ba46cd52b}
       \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
@@ -647,26 +646,21 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
-      \field{abstract}{Computational tools addressing various components of design–build–test–learn (DBTL) loops for the construction of synthetic genetic networks exist but do not generally cover the entire DBTL loop. This manuscript introduces an end-to-end sequence of tools that together form a DBTL loop called Design Assemble Round Trip (DART). DART provides rational selection and refinement of genetic parts to construct and test a circuit. Computational support for experimental process, metadata management, standardized data collection and reproducible data analysis is provided via the previously published Round Trip (RT) test–learn loop. The primary focus of this work is on the Design Assemble (DA) part of the tool chain, which improves on previous techniques by screening up to thousands of network topologies for robust performance using a novel robustness score derived from dynamical behavior based on circuit topology only. In addition, novel experimental support software is introduced for the assembly of genetic circuits. A complete design-through-analysis sequence is presented using several OR and NOR circuit designs, with and without structural redundancy, that are implemented in budding yeast. The execution of DART tested the predictions of the design tools, specifically with regard to robust and reproducible performance under different experimental conditions. The data analysis depended on a novel application of machine learning techniques to segment bimodal flow cytometry distributions. Evidence is presented that, in some cases, a more complex build may impart more robustness and reproducibility across experimental conditions.}
-      \field{issn}{2397-7000}
       \field{journaltitle}{Synthetic Biology}
-      \field{month}{3}
+      \field{month}{1}
+      \field{number}{1}
       \field{sortyear}{2023}
       \field{title}{Robustness and Reproducibility of Simple and Complex Synthetic Logic Circuit Designs Using a {{DBTL}} Loop}
-      \field{urlday}{30}
-      \field{urlmonth}{3}
-      \field{urlyear}{2023}
+      \field{volume}{8}
       \field{year}{2023}
-      \field{urldateera}{ce}
       \true{nocite}
-      \field{pages}{ysad005}
-      \range{pages}{-1}
       \verb{doi}
       \verb 10.1093/synbio/ysad005
       \endverb
       \verb{file}
       \verb C:\Users\User\Dropbox\ZOTEROreferences\Robustness and reproducibility of simple and complex synthetic logic circuit_Cummins et al_2023.pdf
       \endverb
+      \keyw{/unread}
     \endentry
     \entry{sents_2023_SynBioSuiteToolImproving}{article}{}
       \name{author}{6}{}{%
@@ -707,7 +701,7 @@
            familyi={1\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {American Chemical Society}%
+        {American Chemical Society (ACS)}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{fullhash}{8949aa0624c1cb8778fd3e1dc2d42de6}
@@ -725,23 +719,296 @@
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Synthetic biology research has led to the development of many software tools for designing, constructing, editing, simulating, and sharing genetic parts and circuits. Among these tools are SBOLCanvas, iBioSim, and SynBioHub, which can be used in conjunction to create a genetic circuit design following the design–build–test–learn process. However, although automation works within these tools, most of these software tools are not integrated, and the process of transferring information between them is a very manual, error-prone process. To address this problem, this work automates some of these processes and presents SynBioSuite, a cloud-based tool that eliminates many of the drawbacks of the current approach by automating the setup and reception of results for simulating a designed genetic circuit via an application programming interface.}
+      \field{labeltitlesource}{title}
       \field{journaltitle}{ACS Synthetic Biology}
       \field{month}{3}
-      \field{shorttitle}{{{SynBioSuite}}}
+      \field{number}{3}
       \field{sortyear}{2023}
-      \field{title}{{{SynBioSuite}}: {{A Tool}} for {{Improving}} the {{Workflow}} for {{Genetic Design}} and {{Modeling}}}
-      \field{urlday}{8}
-      \field{urlmonth}{3}
+      \field{title}{{{SynBioSuite}}: {{A}} Tool for Improving the Workflow for Genetic Design and Modeling}
+      \field{volume}{12}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{892\bibrangedash 897}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1021/acssynbio.2c00597
+      \endverb
+      \keyw{/unread,\#nosource}
+    \endentry
+    \entry{zilberzwige-tal_2023_InvestigatingModelingFactors}{article}{}
+      \name{author}{6}{}{%
+        {{hash=cabd0d4e20024d7a498c2edc273d3644}{%
+           family={{Zilberzwige-Tal}},
+           familyi={Z\bibinitperiod},
+           given={Shai},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0a7774dc97db4798d0e4e8129d743360}{%
+           family={Fontanarrosa},
+           familyi={F\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e6756962fbfcd0211b98d03a54264f46}{%
+           family={Bychenko},
+           familyi={B\bibinitperiod},
+           given={Darya},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3fe136b69e6b67e3b6433150d17a4aeb}{%
+           family={Dorfan},
+           familyi={D\bibinitperiod},
+           given={Yuval},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=53ee72861a7f36abb641f27875d21673}{%
+           family={Gazit},
+           familyi={G\bibinitperiod},
+           given={Ehud},
+           giveni={E\bibinitperiod}}}%
+        {{hash=318c3216c133200b418b9447f2b84fae}{%
+           family={Myers},
+           familyi={M\bibinitperiod},
+           given={Chris\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{13ec148cb4cd8a602790bb4aed20206a}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{13ec148cb4cd8a602790bb4aed20206a}
+      \strng{authornamehash}{940a19328c56882ac2071757b90b11f9}
+      \strng{authorfullhash}{13ec148cb4cd8a602790bb4aed20206a}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Over the past 2 decades, synthetic biology has yielded ever more complex genetic circuits that are able to perform sophisticated functions in response to specific signals. Yet, genetic circuits are not immediately transferable to an outside-the-lab setting where their performance is highly compromised. We propose introducing a broader test step to the design–build–test–learn workflow to include factors that might contribute to unexpected genetic circuit performance. As a proof of concept, we have designed and evaluated a genetic circuit in various temperatures, inducer concentrations, nonsterilized soil exposure, and bacterial growth stages. We determined that the circuit's performance is dramatically altered when these factors differ from the optimal lab conditions. We observed significant changes in the time for signal detection as well as signal intensity when the genetic circuit was tested under nonoptimal lab conditions. As a learning effort, we then proceeded to generate model predictions in untested conditions, which is currently lacking in synthetic biology application design. Furthermore, broader test and learn steps uncovered a negative correlation between the time it takes for a gate to turn ON and the bacterial growth phases. As the synthetic biology discipline transitions from proof-of-concept genetic programs to appropriate and safe application implementations, more emphasis on test and learn steps (i.e., characterizing parts and circuits for a broad range of conditions) will provide missing insights on genetic circuit behavior outside the lab.}
+      \field{journaltitle}{ACS Synthetic Biology}
+      \field{month}{11}
+      \field{sortyear}{2023}
+      \field{title}{Investigating and {{Modeling}} the {{Factors That Affect Genetic Circuit Performance}}}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
       \field{urlyear}{2023}
       \field{year}{2023}
       \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
-      \verb 10.1021/acssynbio.2c00597
+      \verb 10.1021/acssynbio.3c00151
       \endverb
-      \keyw{\#nosource}
+      \verb{file}
+      \verb C:\Users\User\Dropbox\ZOTEROreferences\MyPublications\Investigating and Modeling the Factors That Affect Genetic Circuit Performance_Zilberzwige-Tal et al_2023.pdf
+      \endverb
+      \keyw{/unread}
+    \endentry
+    \entry{Cummins_2022}{article}{}
+      \name{author}{32}{}{%
+        {{hash=ec7d08deca2f6da439d3113b3a30fcd7}{%
+           family={Cummins},
+           familyi={C\bibinitperiod},
+           given={Breschine},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1db7e2c4fc25f21ada6d5d251a319a82}{%
+           family={Vrana},
+           familyi={V\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c96f45a35004d2d85e27aac22b10b4ab}{%
+           family={Moseley},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=911398b0343f35c76ac68369d1f07417}{%
+           family={Eramian},
+           familyi={E\bibinitperiod},
+           given={Hamed},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c1f4e4fd63089b4c0037c6650daa9b64}{%
+           family={Deckard},
+           familyi={D\bibinitperiod},
+           given={Anastasia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0a7774dc97db4798d0e4e8129d743360}{%
+           family={Fontanarrosa},
+           familyi={F\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=50c9e78537ee69ea3ddb7eb318cfa90f}{%
+           family={Bryce},
+           familyi={B\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=723d61c34f55d05c81d6471ffa067647}{%
+           family={Weston},
+           familyi={W\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=32f358c7457cf359cae8b9f966923a3f}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+        {{hash=199d7d8f18585a8f1d4f599bf905e453}{%
+           family={Nowak},
+           familyi={N\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7f98827bbc0d1c4352e18d4816e0a35c}{%
+           family={Motta},
+           familyi={M\bibinitperiod},
+           given={Francis\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=fd0ee60207756c3073254ebcec09e43b}{%
+           family={Eslami},
+           familyi={E\bibinitperiod},
+           given={Mohammed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=51152e0eba31c8c1f08de57f72b7fd4a}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Kara\bibnamedelima Layne},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=d0eb2eb58b1d205ba872e2a5ecd649b7}{%
+           family={Goldman},
+           familyi={G\bibinitperiod},
+           given={Robert\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=318c3216c133200b418b9447f2b84fae}{%
+           family={Myers},
+           familyi={M\bibinitperiod},
+           given={Chris\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d934d01c16b30f50991878c462359a4d}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Tessa},
+           giveni={T\bibinitperiod}}}%
+        {{hash=fb452ec82d2cdc00a3c362676e01384e}{%
+           family={Vaughn},
+           familyi={V\bibinitperiod},
+           given={Matthew\bibnamedelima W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=8600c1165215ef82ba2fae4bae3baa94}{%
+           family={Gaffney},
+           familyi={G\bibinitperiod},
+           given={Niall},
+           giveni={N\bibinitperiod}}}%
+        {{hash=c58cec13f5af21bf4371302ceab96715}{%
+           family={Urrutia},
+           familyi={U\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod}}}%
+        {{hash=165ee33878ed8bb6d9c7bd75a8ce4e5f}{%
+           family={Gopaulakrishnan},
+           familyi={G\bibinitperiod},
+           given={Shweta},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d8dbf4a7ee3231dd996d6992ebb56320}{%
+           family={Biggers},
+           familyi={B\bibinitperiod},
+           given={Vanessa},
+           giveni={V\bibinitperiod}}}%
+        {{hash=543ae3f26fc6f3d608529f05b7afe3f1}{%
+           family={Higa},
+           familyi={H\bibinitperiod},
+           given={Trissha\bibnamedelima R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=5ab0fb02d268075571cb198b603b5699}{%
+           family={Mosqueda},
+           familyi={M\bibinitperiod},
+           given={Lorraine\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=76d6e520f74366c183bd03e76f0a6761}{%
+           family={Gameiro},
+           familyi={G\bibinitperiod},
+           given={Marcio},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fe56e54d755bc209da456c498a453826}{%
+           family={Gedeon},
+           familyi={G\bibinitperiod},
+           given={Tomáš},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d11814522a0686c1b24ab9291e66523b}{%
+           family={Mischaikow},
+           familyi={M\bibinitperiod},
+           given={Konstantin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=0ec0ea521a2f36d38a309d2c5c5d94dc}{%
+           family={Beal},
+           familyi={B\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c4367ba35fe91ee675c9ea9d9091811e}{%
+           family={Bartley},
+           familyi={B\bibinitperiod},
+           given={Bryan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6b1b95cdca60865947b9a309e5e904f6}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d06d485326856b14ba3664074477c6ae}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Tramy\bibnamedelima T.},
+           giveni={T\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=26ecb2a072a1756df1679cba1635eea5}{%
+           family={Roehner},
+           familyi={R\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1e2b4d490f51c725cc3f31a2696750a9}{%
+           family={Haase},
+           familyi={H\bibinitperiod},
+           given={Steven\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{584a64ff040d0fa0e776191ba46cd52b}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{584a64ff040d0fa0e776191ba46cd52b}
+      \strng{authornamehash}{d82679f203288df4920b307c7d4c1334}
+      \strng{authorfullhash}{584a64ff040d0fa0e776191ba46cd52b}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{10}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{sortyear}{2022}
+      \field{title}{Robustness and Reproducibility of Simple and Complex Synthetic Logic Circuit Designs Using a {{DBTL}} Loop}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1101/2022.06.10.495560
+      \endverb
+      \keyw{/unread}
     \endentry
     \entry{fontanarrosa_2022_InvestigatingGeneticCircuit}{thesis}{}
       \name{author}{1}{}{%
@@ -771,10 +1038,10 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{9}
+      \field{extraname}{11}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{1}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
@@ -831,10 +1098,10 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{10}
+      \field{extraname}{12}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{2}
+      \field{extradate}{3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
@@ -886,7 +1153,7 @@
            familyi={1\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {bioRxiv}%
+        {Cold Spring Harbor Laboratory}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{fullhash}{13ec148cb4cd8a602790bb4aed20206a}
@@ -897,39 +1164,29 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{11}
+      \field{extraname}{13}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{3}
+      \field{extradate}{4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
-      \field{abstract}{Over the past two decades, synthetic biology has yielded ever more complex genetic circuits able to perform sophisticated functions in response to specific signals. Yet, genetic circuits are not immediately transferable to an outside-the-lab setting where their performance is highly compromised. We propose introducing a scale step to the design-build-test workflow to include factors that might contribute to unexpected genetic circuit performance. As a proof-of-concept, we designed and tested a genetic circuit under different temperatures, mediums, inducer concentrations, and bacterial growth phases. We determined that the circuit's performance is dramatically altered when these factors differ from the optimal lab conditions. Based on these results, a scaling effort, coupled with a learning process, proceeded to generate model predictions for the genetic circuit's performance under untested conditions, which is currently lacking in synthetic biology application design. As the synthetic biology discipline transitions from proof-of-concept genetic programs to appropriate and safe application implementations, more emphasis on a scale step is needed to ensure correct and robust performances.}
-      \field{chapter}{New Results}
-      \field{eprintclass}{New Results}
-      \field{eprinttype}{bioRxiv}
-      \field{langid}{english}
+      \field{eprinttype}{Cold Spring Harbor Laboratory}
       \field{month}{5}
       \field{sortyear}{2022}
-      \field{title}{Investigating and {{Modeling}} the {{Factors}} That {{Affect Genetic Circuit Performance}}}
-      \field{urlday}{19}
-      \field{urlmonth}{7}
-      \field{urlyear}{2022}
+      \field{title}{Investigating and Modeling the Factors That Affect Genetic Circuit Performance}
       \field{year}{2022}
-      \field{urldateera}{ce}
       \true{nocite}
-      \field{pages}{2022.05.16.492150}
-      \range{pages}{-1}
       \verb{doi}
       \verb 10.1101/2022.05.16.492150
       \endverb
       \verb{file}
       \verb C:\Users\User\Dropbox\ZOTEROreferences\Investigating and Modeling the Factors that Affect Genetic Circuit Performance_Zilberzwige-Tal et al_22.pdf
       \endverb
-      \keyw{update}
+      \keyw{/unread}
     \endentry
-    \entry{baig_2021_SyntheticBiologyOpen}{article}{}
+    \entry{baig_2021_SyntheticBiologyOpena}{article}{}
       \name{author}{36}{}{%
         {{hash=32a68e23e3063683e627fddd6ecff803}{%
            family={Baig},
@@ -1118,7 +1375,7 @@
            familyi={1\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {De Gruyter}%
+        {Walter de Gruyter GmbH}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{fullhash}{ff4d6db5987d423255b6b310502543b6}
@@ -1129,7 +1386,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{12}
+      \field{extraname}{14}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -1137,19 +1394,13 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
-      \field{abstract}{People who are engineering biological organisms often find it useful to communicate in diagrams, both about the structure of the nucleic acid sequences that they are engineering and about the functional relationships between sequence features and other molecular species. Some typical practices and conventions have begun to emerge for such diagrams. The Synthetic Biology Open Language Visual (SBOL Visual) has been developed as a standard for organizing and systematizing such conventions in order to produce a coherent language for expressing the structure and function of genetic designs. This document details version 2.3 of SBOL Visual, which builds on the prior SBOL Visual 2.2 in several ways. First, the specification now includes higher-level ``interactions with interactions,'' such as an inducer molecule stimulating a repression interaction. Second, binding with a nucleic acid backbone can be shown by overlapping glyphs, as with other molecular complexes. Finally, a new ``unspecified interaction'' glyph is added for visualizing interactions whose nature is unknown, the ``insulator'' glyph is deprecated in favor of a new ``inert DNA spacer'' glyph, and the polypeptide region glyph is recommended for showing 2A sequences.}
-      \field{annotation}{00000}
-      \field{chapter}{Journal of Integrative Bioinformatics}
-      \field{issn}{1613-4516}
       \field{journaltitle}{Journal of Integrative Bioinformatics}
-      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{3}
       \field{sortyear}{2021}
       \field{title}{Synthetic Biology Open Language Visual ({{SBOL Visual}}) Version 2.3}
-      \field{urlday}{9}
-      \field{urlmonth}{6}
-      \field{urlyear}{2021}
+      \field{volume}{18}
       \field{year}{2021}
-      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.1515/jib-2020-0045
@@ -1157,8 +1408,9 @@
       \verb{file}
       \verb C:\Users\User\Dropbox\ZOTEROreferences\Synthetic biology open language visual (SBOL Visual) version 2_Baig et al_2021.pdf
       \endverb
+      \keyw{/unread}
     \endentry
-    \entry{baig_2021_SyntheticBiologyOpena}{article}{}
+    \entry{baig_2021_SyntheticBiologyOpen}{article}{}
       \name{author}{9}{}{%
         {{hash=32a68e23e3063683e627fddd6ecff803}{%
            family={Baig},
@@ -1212,7 +1464,7 @@
            familyi={1\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {De Gruyter}%
+        {Walter de Gruyter GmbH}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{fullhash}{4b77662bf52e00976de3ad760a8c3358}
@@ -1223,7 +1475,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{13}
+      \field{extraname}{15}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -1231,19 +1483,13 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
-      \field{abstract}{People who engineer biological organisms often find it useful to draw diagrams in order to communicate both the structure of the nucleic acid sequences that they are engineering and the functional relationships between sequence features and other molecular species. Some typical practices and conventions have begun to emerge for such diagrams. SBOL Visual aims to organize and systematize such conventions in order to produce a coherent language for expressing the structure and function of genetic designs. This document details version 3.0 of SBOL Visual, a new major revision of the standard. The major difference between SBOL Visual 3 and SBOL Visual 2 is that diagrams and glyphs are defined with respect to the SBOL 3 data model rather than the SBOL 2 data model. A byproduct of this change is that the use of dashed undirected lines for subsystem mappings has been removed, pending future determination on how to represent general SBOL 3 constraints; in the interim, this annotation can still be used as an annotation. Finally, deprecated material has been removed from collection of glyphs: the deprecated ``insulator'' glyph and ``macromolecule'' alternative glyphs have been removed, as have the deprecated BioPAX alternatives to SBO terms.}
-      \field{annotation}{00001}
-      \field{issn}{1613-4516}
       \field{journaltitle}{Journal of Integrative Bioinformatics}
-      \field{langid}{english}
-      \field{month}{10}
+      \field{month}{9}
+      \field{number}{3}
       \field{sortyear}{2021}
       \field{title}{Synthetic Biology Open Language Visual ({{SBOL}} Visual) Version 3.0}
-      \field{urlday}{25}
-      \field{urlmonth}{10}
-      \field{urlyear}{2021}
+      \field{volume}{18}
       \field{year}{2021}
-      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.1515/jib-2021-0013
@@ -1251,7 +1497,7 @@
       \verb{file}
       \verb C:\Users\User\Dropbox\ZOTEROreferences\Synthetic biology open language visual (SBOL visual) version 3_Baig et al_2021.pdf
       \endverb
-      \keyw{diagrams,SBOL visual,standards}
+      \keyw{/unread,diagrams,SBOL visual,standards}
     \endentry
     \entry{buecherl_2021_StochasticHazardAnalysis}{article}{}
       \name{author}{7}{}{%
@@ -1297,7 +1543,7 @@
            familyi={1\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {American Chemical Society}%
+        {American Chemical Society (ACS)}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{fullhash}{b81196755e18bccb2a92fa6da5c7498c}
@@ -1308,7 +1554,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{14}
+      \field{extraname}{16}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{3}
@@ -1316,17 +1562,11 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
-      \field{abstract}{In synthetic biology, combinational circuits are used to program cells for various new applications like biosensors, drug delivery systems, and biofuels. Similar to asynchronous electronic circuits, some combinational genetic circuits may show unwanted switching variations (glitches) caused by multiple input changes. Depending on the biological circuit, glitches can cause irreversible effects and jeopardize the circuit's functionality. This paper presents a stochastic analysis to predict glitch propensities for three implementations of a genetic circuit with known glitching behavior. The analysis uses STochastic Approximate Model-checker for INfinite-state Analysis (STAMINA), a tool for stochastic verification. The STAMINA results were validated by comparison to stochastic simulation in iBioSim resulting in further improvements of STAMINA. This paper demonstrates that stochastic verification can be utilized by genetic designers to evaluate design choices and input restrictions to achieve a desired reliability of operation.}
-      \field{annotation}{00000}
       \field{journaltitle}{ACS Synthetic Biology}
       \field{month}{10}
       \field{sortyear}{2021}
-      \field{title}{Stochastic {{Hazard Analysis}} of {{Genetic Circuits}} in {{iBioSim}} and {{STAMINA}}}
-      \field{urlday}{4}
-      \field{urlmonth}{10}
-      \field{urlyear}{2021}
+      \field{title}{Stochastic Hazard Analysis of Genetic Circuits in {{iBioSim}} and {{STAMINA}}}
       \field{year}{2021}
-      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.1021/acssynbio.1c00159
@@ -1334,6 +1574,7 @@
       \verb{file}
       \verb C:\Users\User\Dropbox\ZOTEROreferences\Synthetic Biology\Modeling\Stochastic Modeling\Extrinsic Intrinsic Noise\Stochastic Hazard Analysis of Genetic Circuits in iBioSim and STAMINA_Buecherl et al_2021.pdf
       \endverb
+      \keyw{/unread}
     \endentry
     \entry{fontanarrosa_2021_ComparisonExtrinsicIntrinsic}{inproceedings}{}
       \name{author}{3}{}{%
@@ -1370,7 +1611,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{15}
+      \field{extraname}{17}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{4}
@@ -1435,7 +1676,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{16}
+      \field{extraname}{18}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{5}
@@ -1455,7 +1696,7 @@
       \range{pages}{3}
       \keyw{\#nosource}
     \endentry
-    \entry{baig_2020_SyntheticBiologyOpen}{article}{}
+    \entry{baig_2020_SyntheticBiologyOpena}{article}{}
       \name{author}{34}{}{%
         {{hash=32a68e23e3063683e627fddd6ecff803}{%
            family={Baig},
@@ -1634,7 +1875,7 @@
            familyi={1\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {De Gruyter}%
+        {Walter de Gruyter GmbH}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{fullhash}{21427b4719ee214b79c88b255a1e082f}
@@ -1645,7 +1886,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{17}
+      \field{extraname}{19}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -1653,21 +1894,13 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
-      \field{abstract}{People who are engineering biological organisms often find it useful to communicate in diagrams, both about the structure of the nucleic acid sequences that they are engineering and about the functional relationships between sequence features and other molecular species. Some typical practices and conventions have begun to emerge for such diagrams. The Synthetic Biology Open Language Visual (SBOL Visual) has been developed as a standard for organizing and systematizing such conventions in order to produce a coherent language for expressing the structure and function of genetic designs. This document details version 2.2 of SBOL Visual, which builds on the prior SBOL Visual 2.1 in several ways. First, the grounding of molecular species glyphs is changed from BioPAX to SBO, aligning with the use of SBO terms for interaction glyphs. Second, new glyphs are added for proteins, introns, and polypeptide regions (e.~g., protein domains), the prior recommended macromolecule glyph is deprecated in favor of its alternative, and small polygons are introduced as alternative glyphs for simple chemicals.}
-      \field{annotation}{00008}
-      \field{chapter}{Journal of Integrative Bioinformatics}
       \field{journaltitle}{Journal of Integrative Bioinformatics}
-      \field{langid}{english}
       \field{month}{6}
       \field{number}{2-3}
       \field{sortyear}{2020}
       \field{title}{Synthetic Biology Open Language Visual ({{SBOL}} Visual) Version 2.2}
-      \field{urlday}{28}
-      \field{urlmonth}{9}
-      \field{urlyear}{2020}
       \field{volume}{17}
       \field{year}{2020}
-      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.1515/jib-2020-0014
@@ -1675,8 +1908,9 @@
       \verb{file}
       \verb C:\Users\User\Dropbox\ZOTEROreferences\Synthetic biology open language visual (SBOL visual) version 2_Baig et al_2020.pdf
       \endverb
+      \keyw{/unread}
     \endentry
-    \entry{baig_2020_SyntheticBiologyOpena}{article}{}
+    \entry{baig_2020_SyntheticBiologyOpenb}{article}{}
       \name{author}{15}{}{%
         {{hash=32a68e23e3063683e627fddd6ecff803}{%
            family={Baig},
@@ -1760,7 +1994,7 @@
            familyi={1\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {De Gruyter}%
+        {Walter de Gruyter GmbH}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{fullhash}{f58f94c7ca187c18d6ea3e2e4bcf76d3}
@@ -1771,7 +2005,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{18}
+      \field{extraname}{20}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -1779,21 +2013,13 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
-      \field{abstract}{Synthetic biology builds upon genetics, molecular biology, and metabolic engineering by applying engineering principles to the design of biological systems. When designing a synthetic system, synthetic biologists need to exchange information about multiple types of molecules, the intended behavior of the system, and actual experimental measurements. The Synthetic Biology Open Language (SBOL) has been developed as a standard to support the specification and exchange of biological design information in synthetic biology, following an open community process involving both wet bench scientists and dry scientific modelers and software developers, across academia, industry, and other institutions. This document describes SBOL 3.0.0, which condenses and simplifies previous versions of SBOL based on experiences in deployment across a variety of scientific and industrial settings. In particular, SBOL 3.0.0, (1) separates sequence features from part/sub-part relationships, (2) renames Component Definition/Component to Component/Sub-Component, (3) merges Component and Module classes, (4) ensures consistency between data model and ontology terms, (5) extends the means to define and reference Sub-Components, (6) refines requirements on object URIs, (7) enables graph-based serialization, (8) moves Systems Biology Ontology (SBO) for Component types, (9) makes all sequence associations explicit, (10) makes interfaces explicit, (11) generalizes Sequence Constraints into a general structural Constraint class, and (12) expands the set of allowed constraints.}
-      \field{annotation}{00008}
-      \field{chapter}{Journal of Integrative Bioinformatics}
       \field{journaltitle}{Journal of Integrative Bioinformatics}
-      \field{langid}{english}
       \field{month}{6}
       \field{number}{2-3}
       \field{sortyear}{2020}
       \field{title}{Synthetic Biology Open Language ({{SBOL}}) Version 3.0.0}
-      \field{urlday}{28}
-      \field{urlmonth}{9}
-      \field{urlyear}{2020}
       \field{volume}{17}
       \field{year}{2020}
-      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.1515/jib-2020-0017
@@ -1801,8 +2027,9 @@
       \verb{file}
       \verb C:\Users\User\Dropbox\ZOTEROreferences\Synthetic biology open language (SBOL) version 3_Baig et al_2020.pdf
       \endverb
+      \keyw{/unread}
     \endentry
-    \entry{fontanarrosa_2020_GeneticCircuitDynamics}{article}{}
+    \entry{fontanarrosa_2020_GeneticCircuitDynamicsa}{article}{}
       \name{author}{6}{}{%
         {{hash=0a7774dc97db4798d0e4e8129d743360}{%
            family={Fontanarrosa},
@@ -1814,11 +2041,11 @@
            familyi={D\bibinitperiod},
            given={Hamid},
            giveni={H\bibinitperiod}}}%
-        {{hash=ee1bb6ee532a61797a1fa0dfe2c9db80}{%
-           family={Espah\bibnamedelima Borujeni},
-           familyi={E\bibinitperiod\bibinitdelim B\bibinitperiod},
-           given={Amin},
-           giveni={A\bibinitperiod}}}%
+        {{hash=1f5552dc4adbd0468f085f37495f4745}{%
+           family={Borujeni},
+           familyi={B\bibinitperiod},
+           given={Amin\bibnamedelima Espah},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
         {{hash=3fe136b69e6b67e3b6433150d17a4aeb}{%
            family={Dorfan},
            familyi={D\bibinitperiod},
@@ -1829,11 +2056,11 @@
            familyi={V\bibinitperiod},
            given={Christopher\bibnamedelima A.},
            giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=318c3216c133200b418b9447f2b84fae}{%
+        {{hash=cda3c6c6e2ef7b4ff61916789cdc4ce6}{%
            family={Myers},
            familyi={M\bibinitperiod},
-           given={Chris\bibnamedelima J.},
-           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
       }
       \name{shortauthor}{1}{}{%
         {{hash=b59c67bf196a4758191e42f76670ceba}{%
@@ -1841,44 +2068,42 @@
            familyi={1\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {American Chemical Society}%
+        {American Chemical Society (ACS)}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{45d1f46ce8587222bbadc4626cf01ca9}
+      \strng{fullhash}{29bb10624468e92809f642ad167af0ab}
       \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{45d1f46ce8587222bbadc4626cf01ca9}
+      \strng{authorbibnamehash}{29bb10624468e92809f642ad167af0ab}
       \strng{authornamehash}{610cd038c61f810ec5adb0ce291b087d}
-      \strng{authorfullhash}{45d1f46ce8587222bbadc4626cf01ca9}
+      \strng{authorfullhash}{29bb10624468e92809f642ad167af0ab}
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{19}
+      \field{extraname}{21}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Multiple input changes can cause unwanted switching variations, or glitches, in the output of genetic combinational circuits. These glitches can have drastic effects if the output of the circuit causes irreversible changes within or with other cells such as a cascade of responses, apoptosis, or the release of a pharmaceutical in an off-target tissue. Therefore, avoiding unwanted variation of a circuit's output can be crucial for the safe operation of a genetic circuit. This paper investigates what causes unwanted switching variations in combinational genetic circuits using hazard analysis and a new dynamic model generator. The analysis is done in previously built and modeled genetic circuits with known glitching behavior. The dynamic models generated not only predict the same steady-states as previous models but can also predict the unwanted switching variations that have been observed experimentally. Multiple input changes may cause glitches due to propagation delays within the circuit. Modifying the circuit's layout to alter these delays may change the likelihood of certain glitches, but it cannot eliminate the possibility that the glitch may occur. In other words, function hazards cannot be eliminated. Instead, they must be avoided by restricting the allowed input changes to the system. Logic hazards, on the other hand, can be avoided using hazard-free logic synthesis. This paper demonstrates this by showing how a circuit designed using a popular genetic design automation tool can be redesigned to eliminate logic hazards.}
-      \field{annotation}{00004}
+      \field{labeltitlesource}{title}
       \field{journaltitle}{ACS Synthetic Biology}
       \field{month}{8}
-      \field{shorttitle}{Genetic {{Circuit Dynamics}}}
+      \field{number}{9}
       \field{sortyear}{2020}
-      \field{title}{Genetic {{Circuit Dynamics}}: {{Hazard}} and {{Glitch Analysis}}}
-      \field{urlday}{6}
-      \field{urlmonth}{8}
-      \field{urlyear}{2020}
+      \field{title}{Genetic Circuit Dynamics: {{Hazard}} and Glitch Analysis}
+      \field{volume}{9}
       \field{year}{2020}
-      \field{urldateera}{ce}
       \true{nocite}
+      \field{pages}{2324\bibrangedash 2338}
+      \range{pages}{15}
       \verb{doi}
       \verb 10.1021/acssynbio.0c00055
       \endverb
       \verb{file}
       \verb C:\Users\User\Dropbox\ZOTEROreferences\Genetic Circuit Dynamics_Fontanarrosa et al_2020.pdf
       \endverb
+      \keyw{/unread}
     \endentry
     \entry{mclaughlin_2020_SyntheticBiologyOpen}{article}{}
       \name{author}{12}{}{%
@@ -1949,7 +2174,7 @@
            familyi={1\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Frontiers}%
+        {Frontiers Media SA}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{fullhash}{eb28c7703cccebe06c58a39bc29bec6c}
@@ -1960,28 +2185,20 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{20}
+      \field{extraname}{22}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{The Synthetic Biology Open Language (SBOL) is a community-developed data standard that allows knowledge about biological designs to be captured using a machine-tractable, ontology-backed representation that is built using Semantic Web technologies. While early versions of SBOL focused only on the description of DNA-based components and their sub-components, SBOL can now be used to represent knowledge across multiple scales and throughout the entire synthetic biology workflow, from the specification of a single molecule or DNA fragment through to multicellular systems containing multiple interacting genetic circuits. The third major iteration of the SBOL standard, SBOL3, is an effort to streamline and simplify the underlying data model with a focus on real-world applications, based on experience from the deployment of SBOL in a variety of scientific and industrial settings. Here, we introduce the SBOL3 specification both in comparison to previous versions of SBOL and through practical examples of its use.}
-      \field{annotation}{00007}
-      \field{issn}{2296-4185}
+      \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Bioengineering and Biotechnology}
-      \field{langid}{english}
-      \field{shorttitle}{The {{Synthetic Biology Open Language}} ({{SBOL}}) {{Version}} 3}
+      \field{month}{9}
       \field{sortyear}{2020}
-      \field{title}{The {{Synthetic Biology Open Language}} ({{SBOL}}) {{Version}} 3: {{Simplified Data Exchange}} for {{Bioengineering}}}
-      \field{urlday}{11}
-      \field{urlmonth}{9}
-      \field{urlyear}{2020}
+      \field{title}{The Synthetic Biology Open Language ({{SBOL}}) Version 3: {{Simplified}} Data Exchange for Bioengineering}
       \field{volume}{8}
       \field{year}{2020}
-      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.3389/fbioe.2020.01009
@@ -1989,7 +2206,7 @@
       \verb{file}
       \verb C:\Users\User\Dropbox\ZOTEROreferences\The Synthetic Biology Open Language (SBOL) Version 3_McLaughlin et al_2020.pdf
       \endverb
-      \keyw{Data exchange,data standards,Knowledge representation}
+      \keyw{/unread,Data exchange,data standards,Knowledge representation}
     \endentry
     \entry{fontanarrosa_2019_AutomatedGenerationDynamic}{thesis}{}
       \name{author}{1}{}{%
@@ -2019,7 +2236,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{21}
+      \field{extraname}{23}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -2094,7 +2311,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{22}
+      \field{extraname}{24}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -2149,7 +2366,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{23}
+      \field{extraname}{25}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{3}
@@ -2170,57 +2387,60 @@
     \endentry
     \entry{nguyen_2019_DesignAsynchronousGenetic}{article}{}
       \name{author}{7}{}{%
-        {{hash=b09b9fab0bc3ed13d1127f4ee47fa373}{%
+        {{hash=264cf7b62560830db2afd9d1cada33a9}{%
            family={Nguyen},
            familyi={N\bibinitperiod},
-           given={T.},
+           given={Tramy},
            giveni={T\bibinitperiod}}}%
-        {{hash=2458737e9318d6fd03f5523a209eba52}{%
+        {{hash=e38370321cabc2da5a82d26d45bdef61}{%
            family={Jones},
            familyi={J\bibinitperiod},
-           given={T.\bibnamedelimi S.},
+           given={Timothy\bibnamedelima S.},
            giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=41e73b00e44d3166402682efcee144f7}{%
+        {{hash=0a7774dc97db4798d0e4e8129d743360}{%
            family={Fontanarrosa},
            familyi={F\bibinitperiod},
-           given={P.},
+           given={Pedro},
            giveni={P\bibinitperiod}}}%
-        {{hash=dc44ba61838f100c3ad06bb9199c8779}{%
+        {{hash=9288faf73f3cd6e3a5021cf598588b20}{%
            family={Mante},
            familyi={M\bibinitperiod},
-           given={J.\bibnamedelimi V.},
+           given={Jeanet\bibnamedelima V.},
            giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
-        {{hash=87e656e4e26336c2fac437bc4fdb05c9}{%
+        {{hash=d3019066ee80d8c893b5dfe26309b7a1}{%
            family={Zundel},
            familyi={Z\bibinitperiod},
-           given={Z.},
+           given={Zach},
            giveni={Z\bibinitperiod}}}%
-        {{hash=eec6264d8d71729fe07fdef09ec1f9d8}{%
+        {{hash=c126764de652568ab85229034490efaf}{%
            family={Densmore},
            familyi={D\bibinitperiod},
-           given={D.},
+           given={Douglas},
            giveni={D\bibinitperiod}}}%
-        {{hash=ff2168df595bb5a34f831faf4d1bb655}{%
+        {{hash=cda3c6c6e2ef7b4ff61916789cdc4ce6}{%
            family={Myers},
            familyi={M\bibinitperiod},
-           given={C.\bibnamedelimi J.},
-           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
       }
       \name{shortauthor}{1}{}{%
         {{hash=b59c67bf196a4758191e42f76670ceba}{%
            family={1111},
            familyi={1\bibinitperiod}}}%
       }
+      \list{publisher}{1}{%
+        {Institute of Electrical and Electronics Engineers (IEEE)}%
+      }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{548239cc93373a0b1ab21bc7db1998d1}
+      \strng{fullhash}{956865e5215791127a4b73dbc3728d5b}
       \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{548239cc93373a0b1ab21bc7db1998d1}
-      \strng{authornamehash}{b473f54884180f3b2fd29f7f2e202bb5}
-      \strng{authorfullhash}{548239cc93373a0b1ab21bc7db1998d1}
+      \strng{authorbibnamehash}{956865e5215791127a4b73dbc3728d5b}
+      \strng{authornamehash}{5cb653d87abae83312c2865445e3f0f2}
+      \strng{authorfullhash}{956865e5215791127a4b73dbc3728d5b}
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{24}
+      \field{extraname}{26}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{4}
@@ -2228,23 +2448,23 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
-      \field{abstract}{Most digital electronic circuits utilize a timing reference to synchronize the progression of signals and enable sequential memory elements. These designs may not be realizable in biological substrates due to the lack of a reliable high-frequency clock signal. Asynchronous designs eliminate the need for a clock with data encodings and request/acknowledge handshake protocols. This paper proposes a workflow to automate the design of asynchronous genetic circuits. This workflow extends genetic design tools by leveraging asynchronous logic design methods customized for this technology. This workflow is demonstrated on a genetic sensor that uses filtering and cellular communication to improve its reliability.}
-      \field{annotation}{00011}
-      \field{issn}{0018-9219}
       \field{journaltitle}{Proceedings of the IEEE}
+      \field{month}{7}
+      \field{number}{7}
       \field{sortyear}{2019}
       \field{title}{Design of Asynchronous Genetic Circuits}
+      \field{volume}{107}
       \field{year}{2019}
       \true{nocite}
-      \field{pages}{1\bibrangedash 13}
+      \field{pages}{1356\bibrangedash 1368}
       \range{pages}{13}
       \verb{doi}
-      \verb 10.1109/JPROC.2019.2916057
+      \verb 10.1109/jproc.2019.2916057
       \endverb
       \verb{file}
       \verb C:\Users\User\Dropbox\ZOTEROreferences\Synthetic Biology\Genetic Design\Design of asynchronous genetic circuits_Nguyen et al_2019.pdf
       \endverb
-      \keyw{Asynchronous design,Clocks,genetic circuits,genetic design automation (GDA),Genetics,Production,Proteins,Protocols,standards,Standards,synthetic biology,Timing}
+      \keyw{/unread,Asynchronous design,Clocks,genetic circuits,genetic design automation (GDA),Genetics,Production,Proteins,Protocols,standards,Standards,synthetic biology,Timing}
     \endentry
     \entry{fontanarrosa_2018_ImprovedModelGeneration}{inproceedings}{}
       \name{author}{6}{}{%
@@ -2296,7 +2516,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{25}
+      \field{extraname}{27}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2314,23 +2534,23 @@
       \range{pages}{1}
       \keyw{\#nosource}
     \endentry
-    \entry{carreira_2014_NutritionalCompositionOpuntia}{article}{}
+    \entry{carreira_2014_NutritionalCompositionOfiOpuntia}{article}{}
       \name{author}{6}{}{%
         {{hash=c640bf111afa416bddd2a7b0cc596fcc}{%
            family={Carreira},
            familyi={C\bibinitperiod},
            given={Valeria\bibnamedelima P.},
            giveni={V\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=f134d4df6e0d8fd54f9c941d89ecddc3}{%
+        {{hash=ad535de23c0e72ea8f6f5f877a035fc0}{%
            family={Padró},
            familyi={P\bibinitperiod},
-           given={Julián},
+           given={Julian},
            giveni={J\bibinitperiod}}}%
-        {{hash=b888ed29781b07ac6a10ece464e4ce41}{%
-           family={Mongiardino\bibnamedelima Koch},
-           familyi={M\bibinitperiod\bibinitdelim K\bibinitperiod},
-           given={Nicolás},
-           giveni={N\bibinitperiod}}}%
+        {{hash=a5213b89e7cc7de2c46cadbc18f5d41b}{%
+           family={Koch},
+           familyi={K\bibinitperiod},
+           given={Nicolás\bibnamedelima Mongiardino},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
         {{hash=0a7774dc97db4798d0e4e8129d743360}{%
            family={Fontanarrosa},
            familyi={F\bibinitperiod},
@@ -2352,16 +2572,19 @@
            family={1111},
            familyi={1\bibinitperiod}}}%
       }
+      \list{publisher}{1}{%
+        {Cactus and Succulent Society of America}%
+      }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{5f759264eb4f6cde0ddf907b81dff0d2}
+      \strng{fullhash}{3702fe7c014be88c431c192b237a73d9}
       \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{5f759264eb4f6cde0ddf907b81dff0d2}
+      \strng{authorbibnamehash}{3702fe7c014be88c431c192b237a73d9}
       \strng{authornamehash}{5653112dca19377072d5957e60d46550}
-      \strng{authorfullhash}{5f759264eb4f6cde0ddf907b81dff0d2}
+      \strng{authorfullhash}{3702fe7c014be88c431c192b237a73d9}
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{26}
+      \field{extraname}{28}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -2369,27 +2592,19 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
-      \field{abstract}{Several studies have shown the interesting properties of Opuntia spp. (``prickly pears''), although most of this knowledge is based on O. ficus-indica. O. sulphurea is a species that is largely distributed in the Monte region of Argentina, where it has been used as an edible resource, especially in periods of food shortage. This is the first report evaluating the chemical composition of O. sulphurea cladodes. Our results show that cladodes are composed primarily of water, as with most other prickly pears that have been studied, which is consistent with their expected role as water reservoir in desert communities. Ash and protein content in O. sulphurea are consistent with values found for other species of the genus, whereas carbohydrates are well below levels of other Opuntia spp. Finally, the percentage of lipids in O. sulphurea cladodes is larger than in other studied species and fatty acid composition is quite different from observations made in similar studies. These earlier studies showed that linoleic acid is the major constituent of fatty acid fractions, followed by palmitic and oleic acids. Our analyses showed that these fatty acids are also principal constituents of O. sulphurea cladodes, although linolenic acid proved to be the most abundant. Curiously, the previous works found relatively low quantities of this fatty acid. Other minor fatty acids were also detected in cladodes of O. sulphurea, although the percentages are larger than in other studies of prickly pears. We discuss our results in the context of the potential nutraceutical and economic utility of O. sulphurea cladodes as a new source of essential fatty acids, especially in semi-arid areas as the Monte region where this species represents an abundant edible resource which is available even in periods of scarcity.}
-      \field{annotation}{00020}
-      \field{issn}{1070-0048, 1938-2898}
       \field{journaltitle}{Haseltonia}
       \field{month}{3}
-      \field{number}{19}
       \field{sortyear}{2014}
-      \field{title}{Nutritional {{Composition}} of {{Opuntia}} Sulphurea {{G}}. {{Don Cladodes}}}
-      \field{urlday}{29}
-      \field{urlmonth}{1}
-      \field{urlyear}{2020}
-      \field{volume}{2014}
+      \field{title}{Nutritional Composition {{ofiOpuntia}} Sulphurea/{{iG}}. {{Don}} Cladodes}
+      \field{volume}{19}
       \field{year}{2014}
-      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{38\bibrangedash 45}
       \range{pages}{8}
       \verb{doi}
       \verb 10.2985/026.019.0106
       \endverb
-      \keyw{\#nosource}
+      \keyw{/unread,\#nosource}
     \endentry
     \entry{fontanarrosa_2014_FuentesVariabilidadFenotipica}{thesis}{}
       \name{author}{1}{}{%
@@ -2419,7 +2634,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{27}
+      \field{extraname}{29}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -2475,7 +2690,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{28}
+      \field{extraname}{30}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2534,7 +2749,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{29}
+      \field{extraname}{31}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -2592,7 +2807,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{30}
+      \field{extraname}{32}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -2657,7 +2872,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{31}
+      \field{extraname}{33}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
